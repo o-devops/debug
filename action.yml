@@ -18,7 +18,5 @@ runs:
       shell: bash
     - run: free -m
       shell: bash
-    - run: ps -ef
-      shell: bash
     - run: uname -a
       shell: bash
