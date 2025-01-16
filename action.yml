@@ -20,5 +20,5 @@ runs:
       shell: bash
     - run: uname -a
       shell: bash
-	- run: ps -ef
-	  shell: bash
+	  - run: ps -ef
+	    shell: bash
