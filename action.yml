@@ -14,7 +14,7 @@ runs:
       shell: bash
     - run: ls -alh
       shell: bash
-    - run: df-h
+    - run: df -h
       shell: bash
     - run: free -m
       shell: bash
