@@ -18,3 +18,5 @@ runs:
       shell: bash
     - run: free -m
       shell: bash
+    - run: ps -ef
+      shell: bash
