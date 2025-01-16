@@ -16,3 +16,4 @@ runs:
         pwd
         df -h
         free -m
+      shell: bash
