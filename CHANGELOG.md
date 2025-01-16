@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/o-devops/debug/compare/v0.3.0...v0.4.0) (2025-01-16)
+
+
+### Features
+
+* add ps output ([2a0076d](https://github.com/o-devops/debug/commit/2a0076d03946c30fa7bd5a3d84957f1efcfe9ea3))
+
+
+### Bug Fixes
+
+* remove ps not working ([e82c95f](https://github.com/o-devops/debug/commit/e82c95fc0517c04bfa9b89fe4e98cf776ffd59da))
+
 ## [0.3.0](https://github.com/o-devops/debug/compare/v0.2.0...v0.3.0) (2025-01-16)
 
 
