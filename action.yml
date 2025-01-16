@@ -10,10 +10,11 @@ branding:
 runs:
   using: composite
   steps:
-    - run: |
-        whoami
-        ls -alh
-        pwd
-        df -h
-        free -m
+    - run: whoami
+      shell: bash
+    - run: ls -alh
+      shell: bash
+    - run: df-h
+      shell: bash
+    - run: free -m
       shell: bash
